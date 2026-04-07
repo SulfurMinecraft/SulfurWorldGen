@@ -1,0 +1,5 @@
+main: hu.jgj52.SulfurWorldGen.SulfurWorldGen
+name: SulfurWorldGen
+authors:
+  - JGJ52
+version: 1.0-SNAPSHOT
