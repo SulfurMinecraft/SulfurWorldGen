@@ -1,12 +1,12 @@
 package hu.jgj52.SulfurWorldGen;
 
-import hu.jgj52.Sulfur.Utils.Plugin;
+import dev.sulfurmc.Sulfur.Utils.Plugin;
 import hu.jgj52.SulfurWorldGen.Listeners.JoinListener;
 import net.minestom.server.instance.block.Block;
 import net.minestom.server.instance.generator.UnitModifier;
 
 
-import static hu.jgj52.Sulfur.Sulfur.ic;
+import static dev.sulfurmc.Sulfur.Sulfur.ic;
 
 public class SulfurWorldGen implements Plugin {
     @Override

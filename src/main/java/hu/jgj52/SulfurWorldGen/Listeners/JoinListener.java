@@ -1,7 +1,7 @@
 package hu.jgj52.SulfurWorldGen.Listeners;
 
-import hu.jgj52.Sulfur.Utils.Listeners.Event;
-import hu.jgj52.Sulfur.Utils.Listeners.Listener;
+import dev.sulfurmc.Sulfur.Utils.Listeners.Event;
+import dev.sulfurmc.Sulfur.Utils.Listeners.Listener;
 import net.minestom.server.coordinate.Pos;
 import net.minestom.server.event.player.PlayerSpawnEvent;
 
